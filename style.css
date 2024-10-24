@@ -1,0 +1,23 @@
+.panel{
+    background-color: #f4f4f4;
+    color:#333;
+    margin:16px;
+    padding: 16px;
+    border-radius: 8px;
+    font-size: 20px;
+}
+
+.panel-note{
+    background-color:#d4edda;
+    border-left: 6px solod green;
+}
+
+.panel-quote{
+    background-color: #fff3cd;
+    border-left: 6px solod #fff3cd;
+}
+
+.panel-warning{
+    background-color:#ffdddd;
+    border-left: 6px solod red;
+}
